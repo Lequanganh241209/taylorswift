@@ -1,0 +1,1 @@
+module.exports={reactStrictMode:true,async headers(){return[{source:'/(:?)(.*)',headers:[{key:'Content-Security-Policy',value:'frame-ancestors *'}]}]}}

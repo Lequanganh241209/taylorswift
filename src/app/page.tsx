@@ -1,0 +1,1 @@
+export default function Home(){return(<main style={{padding:24,fontFamily:'ui-sans-serif'}}><h1>System Online</h1><p>Fallback build deployed successfully.</p></main>)}
